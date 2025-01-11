@@ -1,0 +1,1 @@
+# Project-Dimensionality-Reduction-Using-K-Means-for-Activity-Recongition
